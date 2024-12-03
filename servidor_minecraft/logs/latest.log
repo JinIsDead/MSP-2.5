@@ -1301,3 +1301,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 08:00:57.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
 [03Dec2024 08:02:11.314] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [03Dec2024 08:02:11.315] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Dec2024 08:10:33.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead was blown up by JinIsDead
+[03Dec2024 08:10:34.174] [Server thread/INFO] [tombstone/]: The player JinIsDead has successfully been saved
+[03Dec2024 08:14:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Isn't It Iron Pick]
+[03Dec2024 08:14:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Ol' Betsy]
+[03Dec2024 08:14:27.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Take Aim]
+[03Dec2024 08:16:53.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Dec2024 08:19:03.593] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Dec2024 08:22:28.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03Dec2024 08:22:49.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[03Dec2024 08:23:19.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
