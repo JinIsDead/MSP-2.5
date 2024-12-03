@@ -1184,3 +1184,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 05:26:26.676] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [03Dec2024 05:26:49.306] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [03Dec2024 05:26:51.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[03Dec2024 07:34:24.267] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JinIsDead is 37de1ff8-5784-4d79-858c-bd3e4208af9e
+[03Dec2024 07:34:33.984] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[03Dec2024 07:34:33.986] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:staminar'
+[03Dec2024 07:34:33.987] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[03Dec2024 07:34:33.996] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_dagger removed now.
+[03Dec2024 07:34:33.999] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_dagger removed now.
+[03Dec2024 07:34:34.000] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_longsword removed now.
+[03Dec2024 07:34:34.003] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_tachi removed now.
+[03Dec2024 07:34:34.004] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_spear removed now.
+[03Dec2024 07:34:34.007] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:glove removed now.
+[03Dec2024 07:34:34.009] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_spear removed now.
+[03Dec2024 07:34:34.011] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_dagger removed now.
+[03Dec2024 07:34:34.014] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_tachi removed now.
+[03Dec2024 07:34:34.016] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:stone_spear removed now.
+[03Dec2024 07:34:34.020] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_tachi removed now.
+[03Dec2024 07:34:34.022] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_spear removed now.
+[03Dec2024 07:34:34.027] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_tachi removed now.
+[03Dec2024 07:34:34.030] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_spear removed now.
+[03Dec2024 07:34:34.032] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_greatsword removed now.
+[03Dec2024 07:34:34.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_greatsword removed now.
+[03Dec2024 07:34:34.037] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_dagger removed now.
+[03Dec2024 07:34:34.042] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_greatsword removed now.
+[03Dec2024 07:34:34.044] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_longsword removed now.
+[03Dec2024 07:34:34.045] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_longsword removed now.
+[03Dec2024 07:34:34.048] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_greatsword removed now.
+[03Dec2024 07:34:34.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:stone_greatsword removed now.
+[03Dec2024 07:34:34.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_longsword removed now.
+[03Dec2024 07:34:34.052] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Dec2024 07:34:34.055] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_dagger removed now.
+[03Dec2024 07:34:34.058] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_dagger removed now.
+[03Dec2024 07:34:34.060] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_longsword removed now.
+[03Dec2024 07:34:34.062] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_tachi removed now.
+[03Dec2024 07:34:34.063] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_spear removed now.
+[03Dec2024 07:34:34.064] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:glove removed now.
+[03Dec2024 07:34:34.065] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_spear removed now.
+[03Dec2024 07:34:34.067] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_dagger removed now.
+[03Dec2024 07:34:34.067] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_tachi removed now.
+[03Dec2024 07:34:34.068] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:stone_spear removed now.
+[03Dec2024 07:34:34.068] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_tachi removed now.
+[03Dec2024 07:34:34.069] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_spear removed now.
+[03Dec2024 07:34:34.070] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_tachi removed now.
+[03Dec2024 07:34:34.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_spear removed now.
+[03Dec2024 07:34:34.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_greatsword removed now.
+[03Dec2024 07:34:34.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:diamond_greatsword removed now.
+[03Dec2024 07:34:34.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_dagger removed now.
+[03Dec2024 07:34:34.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_greatsword removed now.
+[03Dec2024 07:34:34.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:golden_longsword removed now.
+[03Dec2024 07:34:34.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:iron_longsword removed now.
+[03Dec2024 07:34:34.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_greatsword removed now.
+[03Dec2024 07:34:34.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:stone_greatsword removed now.
+[03Dec2024 07:34:34.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: epicfight:netherite_longsword removed now.
+[03Dec2024 07:34:34.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Dec2024 07:34:34.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JinIsDead[/127.103.22.223:59827] logged in with entity id 1872 at (4.704750538379855, 127.0, -6.3942324340069145)
+[03Dec2024 07:34:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead joined the game
+[03Dec2024 07:34:35.528] [Server thread/INFO] [Jade/]: Syncing config to JinIsDead (37de1ff8-5784-4d79-858c-bd3e4208af9e)
+[03Dec2024 07:35:03.671] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Dec2024 07:35:03.692] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Dec2024 07:35:03.693] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Dec2024 07:35:05.649] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Dec2024 07:35:26.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JinIsDead lost connection: Disconnected
+[03Dec2024 07:35:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead left the game
+[03Dec2024 07:35:26.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52829ms or 1056 ticks behind
+[03Dec2024 07:35:26.644] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 07:35:34.568] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JinIsDead is 37de1ff8-5784-4d79-858c-bd3e4208af9e
+[03Dec2024 07:35:43.964] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Dec2024 07:35:43.975] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Dec2024 07:35:43.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JinIsDead[/127.103.22.223:41637] logged in with entity id 1893 at (4.704750538379855, 127.0, -6.3942324340069145)
+[03Dec2024 07:35:44.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead joined the game
+[03Dec2024 07:35:44.450] [Server thread/INFO] [Jade/]: Syncing config to JinIsDead (37de1ff8-5784-4d79-858c-bd3e4208af9e)
+[03Dec2024 07:35:46.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[03Dec2024 07:36:06.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4955ms or 99 ticks behind
+[03Dec2024 07:36:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Not a Diamond]
+[03Dec2024 07:36:12.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Far From Perfect]
+[03Dec2024 07:36:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Suit Up]
+[03Dec2024 07:36:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Acquire Hardware]
+[03Dec2024 07:38:15.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Dec2024 07:39:36.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Proud Soul]
+[03Dec2024 07:40:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Stone Age]
+[03Dec2024 07:40:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Getting an Upgrade]
+[03Dec2024 07:40:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Tiny Proud Soul]
+[03Dec2024 07:40:52.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Slash Blade]
+[03Dec2024 07:40:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Knowledge of Death]
+[03Dec2024 07:40:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Ambush]
+[03Dec2024 07:40:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Monster Hunter]
+[03Dec2024 07:41:40.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JinIsDead: The difficulty has been set to Hard]
+[03Dec2024 07:41:47.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Not Today, Thank You]
+[03Dec2024 07:42:18.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Dec2024 07:42:58.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
