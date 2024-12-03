@@ -1381,3 +1381,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 08:42:22.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [03Dec2024 08:42:42.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
 [03Dec2024 08:43:03.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
+[03Dec2024 08:44:11.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [The Cutest Predator]
+[03Dec2024 08:44:11.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Dec2024 08:44:29.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[03Dec2024 08:44:51.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6987ms or 139 ticks behind
+[03Dec2024 08:46:20.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03Dec2024 08:46:41.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6401ms or 128 ticks behind
+[03Dec2024 08:46:56.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead was incinerated by Fire Dragon
+[03Dec2024 08:46:56.492] [Server thread/INFO] [tombstone/]: The player JinIsDead has successfully been saved
+[03Dec2024 08:46:59.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
+[03Dec2024 08:47:48.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JinIsDead lost connection: Disconnected
+[03Dec2024 08:47:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead left the game
