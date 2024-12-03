@@ -1311,3 +1311,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 08:22:28.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [03Dec2024 08:22:49.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [03Dec2024 08:23:19.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[03Dec2024 08:23:37.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[03Dec2024 08:23:56.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[03Dec2024 08:24:17.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Dec2024 08:24:44.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Dec2024 08:25:02.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
+[03Dec2024 08:25:20.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[03Dec2024 08:27:00.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03Dec2024 08:27:19.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Dec2024 08:27:32.238] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Dec2024 08:27:32.239] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Dec2024 08:27:32.240] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Dec2024 08:27:32.240] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Dec2024 08:27:37.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[03Dec2024 08:27:57.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4816ms or 96 ticks behind
+[03Dec2024 08:28:16.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4445ms or 88 ticks behind
+[03Dec2024 08:28:34.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[03Dec2024 08:28:54.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4702ms or 94 ticks behind
+[03Dec2024 08:29:06.118] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[03Dec2024 08:29:06.119] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[03Dec2024 08:29:06.119] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[03Dec2024 08:29:06.120] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[03Dec2024 08:29:06.120] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[03Dec2024 08:29:06.120] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[03Dec2024 08:29:13.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
+[03Dec2024 08:29:23.956] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[03Dec2024 08:29:31.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[03Dec2024 08:29:51.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5315ms or 106 ticks behind
+[03Dec2024 08:29:56.233] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Dec2024 08:30:10.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Dec2024 08:30:27.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03Dec2024 08:30:49.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JinIsDead moved too quickly! -9.577031885667338,-1.2522033402537147,-2.94254156357664
+[03Dec2024 08:30:50.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8165ms or 163 ticks behind
+[03Dec2024 08:31:08.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[03Dec2024 08:31:27.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
+[03Dec2024 08:31:48.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind
+[03Dec2024 08:32:10.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7620ms or 152 ticks behind
+[03Dec2024 08:32:32.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6807ms or 136 ticks behind
+[03Dec2024 08:32:37.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Elaine the Superior'/14227, l='ServerLevel[world]', x=663.31, y=91.00, z=535.52] died: Elaine the Superior was slain by JinIsDead
+[03Dec2024 08:32:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has completed the challenge [He Wasn't So Strong]
+[03Dec2024 08:32:53.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6368ms or 127 ticks behind
+[03Dec2024 08:33:17.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Dec2024 08:33:32.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [First Village]
+[03Dec2024 08:33:40.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7680ms or 153 ticks behind
