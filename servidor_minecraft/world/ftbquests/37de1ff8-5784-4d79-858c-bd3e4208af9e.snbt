@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "37de1ff857844d79858cbd3e4208af9e"
+	name: "JinIsDead#37de1ff8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

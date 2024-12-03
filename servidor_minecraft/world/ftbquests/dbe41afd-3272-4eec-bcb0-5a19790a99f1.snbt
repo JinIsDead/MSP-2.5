@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dbe41afd32724eecbcb05a19790a99f1"
+	name: "_P_DIDDY__#dbe41afd"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

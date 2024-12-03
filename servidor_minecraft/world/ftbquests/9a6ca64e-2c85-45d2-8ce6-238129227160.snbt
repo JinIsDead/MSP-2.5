@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9a6ca64e2c8545d28ce6238129227160"
+	name: "FunnyManchas#9a6ca64e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "9a6ca64e-2c85-45d2-8ce6-238129227160"
+	type: "player"
+	player_name: "FunnyManchas"
+	ranks: {
+		9a6ca64e-2c85-45d2-8ce6-238129227160: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FunnyManchas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

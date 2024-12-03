@@ -1,0 +1,17 @@
+{
+	id: "37de1ff8-5784-4d79-858c-bd3e4208af9e"
+	type: "player"
+	player_name: "JinIsDead"
+	ranks: {
+		37de1ff8-5784-4d79-858c-bd3e4208af9e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JinIsDead"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

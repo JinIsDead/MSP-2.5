@@ -1,0 +1,17 @@
+{
+	id: "dbe41afd-3272-4eec-bcb0-5a19790a99f1"
+	type: "player"
+	player_name: "_P_DIDDY__"
+	ranks: {
+		dbe41afd-3272-4eec-bcb0-5a19790a99f1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_P_DIDDY__"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
