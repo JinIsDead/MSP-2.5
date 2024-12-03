@@ -1283,3 +1283,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 07:52:19.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Voluntary Exile]
 [03Dec2024 07:52:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [A Strange Grave Dust]
 [03Dec2024 07:53:11.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Dec2024 07:57:11.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead was slain by The Moonflower
+[03Dec2024 07:57:11.728] [Server thread/INFO] [tombstone/]: The player JinIsDead has successfully been saved
+[03Dec2024 07:58:02.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has reached the goal [Chain Death]
+[03Dec2024 07:58:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead was slain by The Moonflower
+[03Dec2024 07:58:02.195] [Server thread/INFO] [tombstone/]: The player JinIsDead has successfully been saved
+[03Dec2024 07:58:20.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [Ashes 'n Bones]
+[03Dec2024 07:58:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead has made the advancement [How'd You Get This?]
+[03Dec2024 08:00:39.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[03Dec2024 08:00:54.612] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[03Dec2024 08:00:54.635] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[03Dec2024 08:00:54.636] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Dec2024 08:00:54.638] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[03Dec2024 08:00:54.638] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Dec2024 08:00:54.640] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Dec2024 08:00:54.640] [Worker-Main-104/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Dec2024 08:00:57.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[03Dec2024 08:02:11.314] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Dec2024 08:02:11.315] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
