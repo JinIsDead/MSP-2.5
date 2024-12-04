@@ -1087,3 +1087,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:46:10.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
 [04Dec2024 21:46:17.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyManchas lost connection: Disconnected
 [04Dec2024 21:46:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas left the game
+[04Dec2024 22:47:51.557] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JinIsDead is 37de1ff8-5784-4d79-858c-bd3e4208af9e
+[04Dec2024 22:47:54.327] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 22:47:54.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 22:47:54.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JinIsDead[/127.103.22.223:42177] logged in with entity id 103844 at (94.30000001192093, 63.875, 80.35973878225622)
+[04Dec2024 22:47:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead joined the game
+[04Dec2024 22:47:54.797] [Server thread/INFO] [Jade/]: Syncing config to JinIsDead (37de1ff8-5784-4d79-858c-bd3e4208af9e)
+[04Dec2024 22:48:00.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Dec2024 22:49:00.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JinIsDead lost connection: Disconnected
+[04Dec2024 22:49:00.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JinIsDead left the game
