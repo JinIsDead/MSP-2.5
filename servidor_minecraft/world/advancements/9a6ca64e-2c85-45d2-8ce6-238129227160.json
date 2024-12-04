@@ -319,7 +319,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "bayou": "2024-12-04 21:38:01 +0000",
       "marsh": "2024-12-03 20:35:10 +0000",
+      "dune_beach": "2024-12-04 21:40:24 +0000",
       "lavender_field": "2024-12-03 20:21:58 +0000",
       "prairie": "2024-12-03 20:25:26 +0000"
     },
@@ -459,9 +461,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-04 21:41:04 +0000",
       "minecraft:beach": "2024-12-03 20:45:49 +0000",
       "minecraft:swamp": "2024-12-03 20:31:56 +0000",
       "minecraft:forest": "2024-12-03 20:43:21 +0000",
+      "minecraft:ocean": "2024-12-04 21:40:33 +0000",
       "minecraft:plains": "2024-12-03 20:31:30 +0000"
     },
     "done": false
@@ -608,6 +612,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-04 21:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 21:35:26 +0000"
     },
     "done": true
   },
