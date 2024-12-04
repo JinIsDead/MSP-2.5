@@ -1064,3 +1064,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:24:39.165] [Server thread/INFO] [tombstone/]: The player FunnyManchas has successfully been saved
 [04Dec2024 21:25:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Ashes 'n Bones]
 [04Dec2024 21:25:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Knowledge raises the soul]
+[04Dec2024 21:29:12.815] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos BlockPos{x=53, y=71, z=635}
+[04Dec2024 21:29:19.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
+[04Dec2024 21:29:19.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyManchas moved too quickly! 9.85393533471239,0.023088109101550458,-2.6829059883349373
+[04Dec2024 21:29:24.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyManchas moved too quickly! 10.00877835348539,-1.4186640077748365,-2.1216691468125646
+[04Dec2024 21:31:41.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas was slain by Acolyte
+[04Dec2024 21:31:41.284] [Server thread/INFO] [tombstone/]: The player FunnyManchas has successfully been saved
+[04Dec2024 21:31:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [The Most Useful Key]
+[04Dec2024 21:31:47.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has reached the goal [A Fast Comeback]
+[04Dec2024 21:32:12.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Isn't It Iron Pick]
+[04Dec2024 21:32:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has reached the goal [Chain Death]
+[04Dec2024 21:32:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas was slain by Acolyte
+[04Dec2024 21:32:32.054] [Server thread/INFO] [tombstone/]: The player FunnyManchas has successfully been saved
+[04Dec2024 21:32:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas was slain by Acolyte
+[04Dec2024 21:32:46.003] [Server thread/INFO] [tombstone/]: The player FunnyManchas has successfully been saved
+[04Dec2024 21:35:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Sweet Dreams]
