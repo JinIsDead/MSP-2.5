@@ -1047,3 +1047,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:37:31.048] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [04Dec2024 20:37:31.052] [Server thread/WARN] [ModernFix/]: Dedicated server took 149.551 seconds to load
 [04Dec2024 20:37:33.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04Dec2024 21:06:15.971] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FunnyManchas is 9a6ca64e-2c85-45d2-8ce6-238129227160
+[04Dec2024 21:06:18.838] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 21:06:18.850] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 21:06:18.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyManchas[/127.124.20.0:38079] logged in with entity id 25201 at (-307.5284962270543, 63.0, 641.0500508849052)
+[04Dec2024 21:06:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas joined the game
+[04Dec2024 21:06:19.777] [Server thread/INFO] [Jade/]: Syncing config to FunnyManchas (9a6ca64e-2c85-45d2-8ce6-238129227160)
+[04Dec2024 21:06:47.630] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[04Dec2024 21:06:50.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31608ms or 632 ticks behind
+[04Dec2024 21:07:13.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-209, y=-12, z=839}
+[04Dec2024 21:07:13.049] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-209, y=-12, z=838}
+[04Dec2024 21:07:24.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19559ms or 391 ticks behind
+[04Dec2024 21:07:52.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12523ms or 250 ticks behind
+[04Dec2024 21:24:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [A Strange Grave Dust]
+[04Dec2024 21:24:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas was slain by Ghost
+[04Dec2024 21:24:39.165] [Server thread/INFO] [tombstone/]: The player FunnyManchas has successfully been saved
+[04Dec2024 21:25:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Ashes 'n Bones]
+[04Dec2024 21:25:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas has made the advancement [Knowledge raises the soul]
