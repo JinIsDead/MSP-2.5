@@ -1084,3 +1084,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:37:09.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Patient 1'/50276, l='ServerLevel[world]', x=22.82, y=55.00, z=974.30] died, message: 'Patient 1 was slain by Acolyte'
 [04Dec2024 21:37:09.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Patient 1'/50276, l='ServerLevel[world]', x=22.82, y=55.00, z=974.30] died: Patient 1 was slain by Acolyte
 [04Dec2024 21:45:51.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04Dec2024 21:46:10.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[04Dec2024 21:46:17.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyManchas lost connection: Disconnected
+[04Dec2024 21:46:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyManchas left the game
